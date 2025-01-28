@@ -3,6 +3,6 @@
 - Experience in **Javascript**, **Html**, **CSS**, **C**, and **Assembly**
 - I am interested in front-end and robotics!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciasnts&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciasnts&layout=donut-vertical&bg_color=00000000))](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciasnts&show_icons=true&bg_color=00000000)
