@@ -1,4 +1,4 @@
-# Hi there, I'm Alicia Santos
+# Hi there, I'm Alícia Santos
 
 I am a Computer Science student at the Federal University of Sergipe (UFS) and a Full Stack Developer focused on building robust and scalable systems. Currently, I work on public health management systems at PET Saude.
 
