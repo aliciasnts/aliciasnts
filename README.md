@@ -25,3 +25,5 @@ I am a Computer Science student at the Federal University of Sergipe (UFS) and a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciasnts&layout=donut-vertical&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciasnts&show_icons=true&theme=synthwave)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciasnts)](https://github.com/anuraghazra/github-readme-stats)
