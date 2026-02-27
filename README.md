@@ -19,11 +19,3 @@ I am a Computer Science student at the Federal University of Sergipe (UFS) and a
 [LinkedIn](https://linkedin.com/in/alicia-santos)
 [Email](mailto:aliciavitoriasousasantos@gmail.com)
 
----
-
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciasnts&layout=donut-vertical&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciasnts&show_icons=true&theme=synthwave)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciasnts)](https://github.com/anuraghazra/github-readme-stats)
