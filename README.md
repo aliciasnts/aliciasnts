@@ -4,7 +4,7 @@ I am a Computer Science student at the Federal University of Sergipe (UFS) and a
 
 ### Professional and Academic Background
 * Full Stack Developer @ PET Saude: Developing sanitary management middlewares and data analysis systems using Java, Spring Boot, and Spring Security.
-* Vice-President @ CoreTech: Co-founder and leader of the Hardware and Robotics Academic League, focusing on EDA and hardware-software integration.
+* Vice-President @ CoreTech: Founder and leader of the Hardware and Robotics Academic League, focusing on EDA and hardware-software integration.
 * Published Author: Co-author of an international scientific article in the IEEE Circuits and Systems Magazine (2025).
 * Ex-Commercial Director and Dev @ SofTeam
 * Self-taught in C#, TypeScript (NestJS), and AWS.
